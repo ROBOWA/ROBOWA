@@ -1,16 +1,18 @@
-## Hi there 👋
+# Qiwen Ding
 
-<!--
-**ROBOWA/ROBOWA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Robotics researcher | University of Pennsylvania**  
+**Email:** [qiwendd@outlook.com](mailto:qiwendd@outlook.com)
 
-Here are some ideas to get you started:
+I work on robot modeling, motion planning, and control for physical interaction. At the University of Pennsylvania, I conduct research with Prof. Mark Yim and Prof. Nadia Figueroa. I also collaborate with SOMA Robotics on robot control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research interests
+
+- Steerable needles and continuum robots
+- Contact-aware control and passivity
+- Dynamical systems for robot motion generation
+- Vision-based tracking, calibration, and experimental robotics
+
+## Education
+
+**University of Pennsylvania**  
+Master's degree in Mechanical Engineering and Applied Mechanics, May 2026
